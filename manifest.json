@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "HappyDrop Plant Watering Reminder",
+  "short_name": "HappyDrop",
+  "description": "Keep every plant happy with simple watering reminders and care history.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#DB1374",
+  "background_color": "#B9C9E7",
+  "icons": [
+    {
+      "src": "assets/HappyDropLogo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
